@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_annotations.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\menu\\activity_main_annotations.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_another.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\menu\\activity_another.xml"
+    }
+]

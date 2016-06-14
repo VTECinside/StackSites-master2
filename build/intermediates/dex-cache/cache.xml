@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\libs\universal-image-loader-1.8.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7ef87542d4b8aba15b4038db99ec2b71e9945a0">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.2_c7749c6cd538187a6b817b4fa34d14b985f31d34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\maver_000\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.1\3dc0a3bea4f876c54846cd050e688f1bfc78fc96\jsoup-1.9.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.9.1_058c58c9d4e790d506a319c3d32d2192cd01e336\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\libs\androidannotations-api-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="064169e7aacaaa76f5a0ca5eea66e2fc02737a17">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\2\androidannotations-api-2.7.1_f64f7eac8276e8a051ca878e1667724790099f19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="528758c991cd5c6ed85ab9d3e1438e03e737d4ce">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4482e791837650489ceb09d371a1a056025e328f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="acdc67782a052797e6449b2946eac45ab3cabb96">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cee9b843abfa1d7fe4bd4938ed5e597320622fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\maver_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_10989396624af65de94ddd73c012ddcedbc4fac1\classes.dex" />
+    </item>
+
+</items>

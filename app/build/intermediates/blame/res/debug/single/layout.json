@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_site.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\row_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchdialog.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\searchdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_input.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listingdetail.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\listingdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem.xml",
+        "source": "C:\\Users\\maver_000\\AndroidStudioProjects\\StackSites-master2\\app\\src\\main\\res\\layout\\listviewitem.xml"
+    }
+]
