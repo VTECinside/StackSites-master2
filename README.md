@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=40mYDQkK44A  
+https://github.com/foamyguy/stacksites  
 上記のプログラムを参考にし、改造しました。    
 
 変更点
