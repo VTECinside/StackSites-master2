@@ -12,8 +12,7 @@ https://github.com/foamyguy/stacksites
 
 まだ未完成ですがオプションメニューからebayAPIを使った方法も実装しています。    
 
-　
-　追加したい機能  
+追加したい機能  
 ・csv出力  
 ・オークションタイプや現在価格でのソート
 　
