@@ -14,7 +14,6 @@ https://github.com/foamyguy/stacksites
 
 　
 　追加したい機能  
-　
 ・csv出力  
 ・オークションタイプや現在価格でのソート
 　
