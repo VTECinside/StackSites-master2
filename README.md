@@ -10,7 +10,7 @@ https://github.com/foamyguy/stacksites
 ・ユーザーからの入力を受け付けるInputActivityを追加  
 　intentで入力されたurlをMainActivityに送り、Downloaderでrssを取得
 
-オプションメニューからebayAPIを使った方法も実装しています。    
+まだ未完成ですがオプションメニューからebayAPIを使った方法も実装しています。    
 
 　
 　追加したい機能  
