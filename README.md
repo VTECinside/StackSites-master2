@@ -10,7 +10,8 @@ https://github.com/foamyguy/stacksites
 ・ユーザーからの入力を受け付けるInputActivityを追加  
 　intentで入力されたurlをMainActivityに送り、Downloaderでrssを取得
 
-まだ未完成ですがオプションメニューからebayAPIを使った方法も実装しています。
+CDATAセクションにはhtml tableがあるのでそれをlistViewで表示できればよいのですが試行錯誤中です。  
+まだ未完成ですがオプションメニューからebayAPIを使った方法も実装しています。  
 htmlリクエストを送信し、Json形式で商品リストを受け取るところまで動作を確認しています。
 
 追加したい機能  
