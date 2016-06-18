@@ -111,7 +111,7 @@ public class SitesAdapter extends ArrayAdapter<StackSite> {
 		//Load the image and use our options so caching is handled.
 		imageLoader.displayImage(getItem(pos).getImgUrl(), iconImg,options, listener);
 		
-		//Set the relavent text in our TextViews
+		//Set the relevant text in our TextViews
 		nameTxt.setText(getItem(pos).getName());
 		aboutTxt.setText(getItem(pos).getAbout());
 		aboutTxt2.setText(getItem(pos).getAbout2());
