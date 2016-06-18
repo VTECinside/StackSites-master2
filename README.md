@@ -5,6 +5,7 @@ https://github.com/foamyguy/stacksites
 
 ・デフォルトではすべてのタグを表示してしまうため、itemタグのみparseするように変更  
 ・CDATAセクションからJsoupを使って画像urlを取得しlistViewで表示  
+・同様にJsoupを使って価格と終了日を表示  
 ・listViewで表示される商品画像を大きく変更  
 ・正規表現でm.ebayをwww.ebayに変更(m.ebayではxmlpullparserがエラーをはくため)  
 ・ユーザーからの入力を受け付けるInputActivityを追加  
