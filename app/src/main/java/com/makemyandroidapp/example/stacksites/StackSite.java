@@ -9,6 +9,7 @@ public class StackSite {
 	private String name;
 	private String link;
 	private String about;
+	private String about2;
 	private String imgUrl;
 	
 	public String getName() {
@@ -29,6 +30,14 @@ public class StackSite {
 	public void setAbout(String about) {
 		this.about = about;
 	}
+
+	public String getAbout2() {
+		return about2;
+	}
+	public void setAbout2(String about2) {
+		this.about2 = about2;
+	}
+
 	public String getImgUrl() {
 		return imgUrl;
 	}

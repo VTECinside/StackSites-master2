@@ -63,13 +63,14 @@ public class SitesAdapter extends ArrayAdapter<StackSite> {
 		if(null == row){
 			//No recycled View, we have to inflate one.
 			LayoutInflater inflater = (LayoutInflater)parent.getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-			row = (RelativeLayout)inflater.inflate(R.layout.row_site, null);
+			row = (RelativeLayout)inflater.inflate(R.layout.row_site, parent, false);
 		}
 		
 		//Get our View References
 		final ImageView iconImg = (ImageView)row.findViewById(R.id.iconImg);
 		TextView nameTxt = (TextView)row.findViewById(R.id.nameTxt);
 		TextView aboutTxt = (TextView)row.findViewById(R.id.aboutTxt);
+		TextView aboutTxt2 = (TextView)row.findViewById(R.id.aboutTxt2);
 		final ProgressBar indicator = (ProgressBar)row.findViewById(R.id.progress);
 		
 		//Initially we want the progress indicator visible, and the image invisible
@@ -113,6 +114,7 @@ public class SitesAdapter extends ArrayAdapter<StackSite> {
 		//Set the relavent text in our TextViews
 		nameTxt.setText(getItem(pos).getName());
 		aboutTxt.setText(getItem(pos).getAbout());
+		aboutTxt2.setText(getItem(pos).getAbout2());
 		
 		
 		

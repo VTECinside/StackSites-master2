@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
 import android.content.Context;
@@ -45,7 +47,6 @@ public class SitesXmlPullParser {
 
 			// get initial eventType
 			int eventType = xpp.getEventType();
-
 
 
 			/* We will parse the XML content looking for the "<title>" tag which appears inside the "<item>" tag.
@@ -119,7 +120,17 @@ public class SitesXmlPullParser {
 
                         curStackSite.setImgUrl(curText2);
                         // if </about> use setAbout() on curSite
-						curStackSite.setAbout("countItem is " + countItem);
+                        Element table = doc.select("table").get(0);
+                        Elements rows = table.select("div");
+                        //Log.i("Info", rows.get(0).text());
+                        //Log.i("Info", rows.get(1).text());
+                        curStackSite.setAbout(rows.get(0).text());
+                        curStackSite.setAbout2(rows.get(1).text());
+                        //curStackSite.setAbout(rows.get(1).text());
+						/*curStackSite.setAbout("countItem is " + countItem);
+
+						*/
+
                         /*
 					} else if (tagname.equalsIgnoreCase(KEY_IMAGE_URL) && insideItem) {
 						// if </image> use setImgUrl() on curSite

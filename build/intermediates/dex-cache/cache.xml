@@ -26,14 +26,14 @@
         jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="528758c991cd5c6ed85ab9d3e1438e03e737d4ce">
+        sha1="b6a3a8240ea972dd73db619e16bbba495b7c5e82">
         <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4482e791837650489ceb09d371a1a056025e328f\classes.dex" />
     </item>
     <item
         jar="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="acdc67782a052797e6449b2946eac45ab3cabb96">
+        sha1="e28964b12be84b0d93ed66e44a696b92bd92c2a9">
         <dex dex="C:\Users\maver_000\AndroidStudioProjects\StackSites-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cee9b843abfa1d7fe4bd4938ed5e597320622fc\classes.dex" />
     </item>
     <item
