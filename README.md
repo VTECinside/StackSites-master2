@@ -1,3 +1,6 @@
+![alt tag](http://s1.gazo.cc/up/196074.png)
+
+
 https://github.com/foamyguy/stacksites  
 上記のプログラムを参考にし、改造しました。    
 
