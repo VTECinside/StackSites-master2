@@ -10,6 +10,7 @@ public class StackSite {
 	private String link;
 	private String about;
 	private String about2;
+	private String about3;
 	private String imgUrl;
 	
 	public String getName() {
@@ -31,9 +32,14 @@ public class StackSite {
 		this.about = about;
 	}
 
-	public String getAbout2() {
-		return about2;
+	public String getAbout3() {
+		return about3;
 	}
+	public void setAbout3(String about3) {
+		this.about3 = about3;
+	}
+
+	public String getAbout2() {return about2;}
 	public void setAbout2(String about2) {
 		this.about2 = about2;
 	}

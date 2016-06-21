@@ -71,6 +71,8 @@ public class SitesAdapter extends ArrayAdapter<StackSite> {
 		TextView nameTxt = (TextView)row.findViewById(R.id.nameTxt);
 		TextView aboutTxt = (TextView)row.findViewById(R.id.aboutTxt);
 		TextView aboutTxt2 = (TextView)row.findViewById(R.id.aboutTxt2);
+		TextView aboutTxt3 = (TextView)row.findViewById(R.id.aboutTxt3);
+
 		final ProgressBar indicator = (ProgressBar)row.findViewById(R.id.progress);
 		
 		//Initially we want the progress indicator visible, and the image invisible
@@ -115,6 +117,7 @@ public class SitesAdapter extends ArrayAdapter<StackSite> {
 		nameTxt.setText(getItem(pos).getName());
 		aboutTxt.setText(getItem(pos).getAbout());
 		aboutTxt2.setText(getItem(pos).getAbout2());
+		aboutTxt3.setText(getItem(pos).getAbout3());
 		
 		
 		

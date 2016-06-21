@@ -123,7 +123,11 @@ public class SitesXmlPullParser {
                         Element table = doc.select("table").get(0);
                         Elements rows = table.select("div");
                         //Log.i("Info", rows.get(0).text());
-                        //Log.i("Info", rows.get(1).text());
+                        //Log.i("Info", rows.get(2).text());
+
+//						for (int i=0; i<rows.size(); i++) {
+//							Log.i("Info", rows.get(i).text());
+//						}
                         curStackSite.setAbout(rows.get(0).text());
                         curStackSite.setAbout2(rows.get(1).text());
                         //curStackSite.setAbout(rows.get(1).text());
@@ -135,7 +139,10 @@ public class SitesXmlPullParser {
 					} else if (tagname.equalsIgnoreCase(KEY_IMAGE_URL) && insideItem) {
 						// if </image> use setImgUrl() on curSite
 						curStackSite.setImgUrl(curText);*/
-					}
+					}else if (tagname.equalsIgnoreCase("rx:AuctionType") && insideItem) {
+
+                        curStackSite.setAbout3("AuctionType: " + curText);
+                    }
 					break;
 
 				default:

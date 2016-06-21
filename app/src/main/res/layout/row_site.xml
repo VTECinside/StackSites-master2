@@ -28,8 +28,26 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/iconImg"
-        android:textSize="12sp"
+        android:textSize="13sp"
         android:layout_below="@id/nameTxt"
+        />
+
+    <TextView
+        android:id="@+id/aboutTxt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iconImg"
+        android:textSize="13sp"
+        android:layout_below="@id/aboutTxt"
+        />
+
+    <TextView
+        android:id="@+id/aboutTxt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iconImg"
+        android:textSize="13sp"
+        android:layout_below="@id/aboutTxt2"
         />
 
 </RelativeLayout>
