@@ -1,7 +1,7 @@
-![alt tag](http://www.dotup.org/uploda/www.dotup.org977719.png.html)
+![alt tag](http://www.fastpic.jp/viewer.php?file=1293318626.png)
 
 
-![alt tag](http://www.dotup.org/uploda/www.dotup.org977720.png.html)
+![alt tag](http://www.fastpic.jp/viewer.php?file=2180587025.png)
 
 
 https://github.com/foamyguy/stacksites  
