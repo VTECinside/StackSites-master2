@@ -1,7 +1,7 @@
-![alt tag](http://s1.gazo.cc/up/196081.png)
+![alt tag](http://www.dotup.org/uploda/www.dotup.org977719.png.html)
 
 
-![alt tag](http://s1.gazo.cc/up/196390.png)
+![alt tag](http://www.dotup.org/uploda/www.dotup.org977720.png.html)
 
 
 https://github.com/foamyguy/stacksites  
